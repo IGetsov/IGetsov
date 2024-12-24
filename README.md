@@ -67,5 +67,8 @@ I am a passionate and results-driven software developer with a strong background
 - **Email**: [ivnegets@gmail.com](mailto:ivnegets@gmail.com)
 - **LinkedIn**: [IvayloGetsov](https://www.linkedin.com/in/ivaylo-getsov-78ba8b193/)
 
+<hr>
+
+![Profile Views](https://komarev.com/ghpvc/?username=IGetsov)
 
 Feel free to connect with me and check out my work. Let's create something amazing together!
