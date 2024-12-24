@@ -44,7 +44,7 @@ Between Jobs is a job search website, where professionals individuals and busine
 This is a forum website, where users can login and navigate trough Categories and Topics to find needed information. The app also allows users to reply on topics and exchange messages.
 
 ### [OOP Logistic App](https://github.com/Best-Logistic-Team-Developers/LogisticsApp)
-![Project 3 Thumbnail](https://via.placeholder.com/250x150.png?text=Project+3)
+[![Project 3 Thumbnail](https://github.com/IGetsov/IGetsov/blob/main/images/LogisticApp_Thumbnail.png)](https://github.com/Best-Logistic-Team-Developers/LogisticsApp)
 
 This is an OOP console application, that handles logistic services for a delivery company, located in Australia. The app allows users to register delivery packages and track their delivery status, create new routes and dispatch available vehicles on pre scheduled routes.
 
