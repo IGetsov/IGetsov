@@ -31,22 +31,28 @@ I am a passionate and results-driven software developer with a strong background
 
 ## Projects
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<div style="display: flex; overflow-x: auto; padding: 20px; gap: 20px;">
 
-### [Job Post Website](https://github.com/Randoms-63/BetweenJobs)
-[![Between Jobs](https://github.com/IGetsov/IGetsov/blob/main/images/BetweenJobs_Thumbnail.png)](https://betweenjobs-webapp.azurewebsites.net/)
+  <div style="flex: 0 0 auto; width: 250px;">
+    <a href="https://github.com/Randoms-63/BetweenJobs" target="_blank">
+      <img src="https://github.com/IGetsov/IGetsov/blob/main/images/BetweenJobs_Thumbnail.png" alt="Between Jobs" width="250" height="250" />
+      <p style="text-align: center;">Job Post Website</p>
+    </a>
+  </div>
 
-Between Jobs is a job search website, where professionals individuals and business owners can quickly search for the right candidate, using quick merge algorithm that matches individual resume and job post requirements and calculates total match score, taking into account matching skills, proffesion, location and education.
+  <div style="flex: 0 0 auto; width: 250px;">
+    <a href="https://github.com/Kernel-Integrated-Systems/Terelik-Forum" target="_blank">
+      <img src="https://github.com/IGetsov/IGetsov/blob/main/images/TelerikForum_Thumbnail.png" alt="Telerik Forum" width="250" height="250" />
+      <p style="text-align: center;">Forum</p>
+    </a>
+  </div>
 
-### [Forum](https://github.com/Kernel-Integrated-Systems/Terelik-Forum)
-[![Project 2 Thumbnail](https://github.com/IGetsov/IGetsov/blob/main/images/TelerikForum_Thumbnail.png)](https://github.com/Kernel-Integrated-Systems/Terelik-Forum)
-
-This is a forum website, where users can login and navigate trough Categories and Topics to find needed information. The app also allows users to reply on topics and exchange messages.
-
-### [OOP Logistic App](https://github.com/Best-Logistic-Team-Developers/LogisticsApp)
-[![Project 3 Thumbnail](https://github.com/IGetsov/IGetsov/blob/main/images/LogisticApp_Thumbnail.png)](https://github.com/Best-Logistic-Team-Developers/LogisticsApp)
-
-This is an OOP console application, that handles logistic services for a delivery company, located in Australia. The app allows users to register delivery packages and track their delivery status, create new routes and dispatch available vehicles on pre scheduled routes.
+  <div style="flex: 0 0 auto; width: 250px;">
+    <a href="https://github.com/Best-Logistic-Team-Developers/LogisticsApp" target="_blank">
+      <img src="https://github.com/IGetsov/IGetsov/blob/main/images/LogisticApp_Thumbnail.png" alt="Logistics App" width="250" height="250" />
+      <p style="text-align: center;">OOP Logistic App</p>
+    </a>
+  </div>
 
 </div>
 ---
