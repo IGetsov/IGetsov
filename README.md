@@ -2,9 +2,9 @@
 
 ## About Me
 
-### Software Developer
-
 I am a passionate and results-driven software developer with a strong background in API development and web applications. My experience also includes working as a Business Intelligence (BI) Developer, where I specialized in creating custom solutions leveraging ETLs and advanced reporting tools. I have a solid foundation in Python, SQL databases, and ETL pipelines, and I am continually improving my skills in crafting engaging and responsive front-end designs. My current focus is building robust applications using FastAPI while integrating seamless backend and frontend solutions.
+
+<hr>
 
 ## Tech Stack
 
@@ -23,31 +23,35 @@ I am a passionate and results-driven software developer with a strong background
 
 </div>
 
+<hr>
+
 ## GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=IGetsov&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IGetsov&layout=compact&theme=radical)
 
+<hr>
+
 ## Projects
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; padding: 20px; gap: 20px;">
 
-  <div style="flex: 0 1 250px; max-width: 250px;">
+  <div style="flex: 0 1 calc(33.33% - 20px); max-width: calc(33.33% - 20px);">
     <a href="https://github.com/Randoms-63/BetweenJobs" target="_blank">
       <img src="https://github.com/IGetsov/IGetsov/blob/main/images/BetweenJobs_Thumbnail.png" alt="Between Jobs" width="250" height="250" />
       <p style="text-align: center;">Job Post Website</p>
     </a>
   </div>
 
-  <div style="flex: 0 1 250px; max-width: 250px;">
+  <div style="flex: 0 1 calc(33.33% - 20px); max-width: calc(33.33% - 20px);">
     <a href="https://github.com/Kernel-Integrated-Systems/Terelik-Forum" target="_blank">
       <img src="https://github.com/IGetsov/IGetsov/blob/main/images/TelerikForum_Thumbnail.png" alt="Telerik Forum" width="250" height="250" />
       <p style="text-align: center;">Forum</p>
     </a>
   </div>
 
-  <div style="flex: 0 1 250px; max-width: 250px;">
+  <div style="flex: 0 1 calc(33.33% - 20px); max-width: calc(33.33% - 20px);">
     <a href="https://github.com/Best-Logistic-Team-Developers/LogisticsApp" target="_blank">
       <img src="https://github.com/IGetsov/IGetsov/blob/main/images/LogisticApp_Thumbnail.png" alt="Logistics App" width="250" height="250" />
       <p style="text-align: center;">OOP Logistic App</p>
@@ -56,7 +60,7 @@ I am a passionate and results-driven software developer with a strong background
 
 </div>
 
----
+<hr>
 
 ## Contact Me
 
