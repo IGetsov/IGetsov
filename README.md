@@ -1,4 +1,4 @@
-# Hi, I'm Ivaylo Getsov 👋
+# Ivaylo Getsov 👋
 
 ## About Me
 
@@ -16,6 +16,7 @@ I am a passionate and results-driven software developer with a strong background
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![Power Automate](https://img.shields.io/badge/Power%20Automate-0066CC?style=for-the-badge&logo=powerautomate&logoColor=white)
 ![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
@@ -31,12 +32,12 @@ I am a passionate and results-driven software developer with a strong background
 ## Projects
 
 ### [Job Post Website](https://github.com/Randoms-63/BetweenJobs)
-[![Between Jobs](https://via.placeholder.com/250x150.png?text=Between+Jobs)](https://betweenjobs-webapp.azurewebsites.net/)
+[![Between Jobs](https://github.com/IGetsov/IGetsov/blob/main/images/BetweenJobs_Thumbnail.png)](https://betweenjobs-webapp.azurewebsites.net/)
 
 Between Jobs is a job search website, where professionals individuals and business owners can quickly search for the right candidate, using quick merge algorithm that matches individual resume and job post requirements and calculates total match score, taking into account matching skills, proffesion, location and education.
 
 ### [Forum](https://github.com/Kernel-Integrated-Systems/Terelik-Forum)
-![Project 2 Thumbnail](https://via.placeholder.com/250x150.png?text=Project+2)
+![Project 2 Thumbnail](https://github.com/IGetsov/IGetsov/blob/main/images/TelerikForum_Thumbnail.png)
 
 This is a forum website, where users can login and navigate trough Categories and Topics to find needed information. The app also allows users to reply on topics and exchange messages.
 
@@ -46,5 +47,11 @@ This is a forum website, where users can login and navigate trough Categories an
 An OOP console application, that manages all main operations for a logiscital business. The app allows package registration, route creation and dispatch, package trackability and scheduling of available vehicles on existing routes.
 
 ---
+
+## Contact Me
+
+- **Email**: [ivnegets@gmail.com](mailto:ivnegets@gmail.com)
+- **LinkedIn**: [linkedinurl](https://[linkedinurl](https://www.linkedin.com/in/ivaylo-getsov-78ba8b193/))
+
 
 Feel free to connect with me and check out my work. Let's create something amazing together!
