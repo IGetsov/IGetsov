@@ -1,19 +1,5 @@
-## Hi there 👋
+# Hi, I'm [Your Name] 👋
 
-<!--
-**IGetsov/IGetsov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ## About Me
 
 ### Software Developer
@@ -22,19 +8,19 @@ I am a passionate and results-driven software developer with a strong background
 
 ## Tech Stack
 
-Here are some of the technologies I use:
+<div align="center">
 
-| Technology | Icon |
-|------------|------|
-| **Python** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
-| **FastAPI** | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) |
-| **SQL** | ![SQL](https://img.shields.io/badge/-SQL-003B57?logo=database&logoColor=white) |
-| **JavaScript** | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
-| **HTML** | ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) |
-| **CSS** | ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) |
-| **Power BI** | ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&logoColor=black) |
-| **Power Automate** | ![Power Automate](https://img.shields.io/badge/-Power%20Automate-0066CC?logo=powerautomate&logoColor=white) |
-| **Power Apps** | ![Power Apps](https://img.shields.io/badge/-Power%20Apps-742774?logo=powerapps&logoColor=white) |
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066CC?style=for-the-badge&logo=powerautomate&logoColor=white)
+![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
+
+</div>
 
 ## GitHub Stats
 
@@ -62,4 +48,3 @@ A brief description of Project 3 and its purpose.
 ---
 
 Feel free to connect with me and check out my work. Let's create something amazing together!
-
