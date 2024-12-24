@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Ivaylo Getsov 👋
 
 ## About Me
 
@@ -31,7 +31,7 @@ I am a passionate and results-driven software developer with a strong background
 ## Projects
 
 ### [Job Post Website](https://github.com/Randoms-63/BetweenJobs)
-![Project 1 Thumbnail](https://via.placeholder.com/250x150.png?text=Project+1)
+![Between Jobs](https://via.placeholder.com/250x150.png?text=[BetweenJobs](https://betweenjobs-webapp.azurewebsites.net/))
 
 A brief description of Project 1 and its purpose.
 
