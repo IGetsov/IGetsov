@@ -33,20 +33,20 @@ I am a passionate and results-driven software developer with a strong background
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
-### <a href="https://github.com/Randoms-63/BetweenJobs">
-    <img src="https://github.com/IGetsov/IGetsov/blob/main/images/BetweenJobs_Thumbnail.png" alt="Between Jobs" width="250" height="250"/>
-</a>
-<p>Between Jobs is a job search website, where professional individuals and business owners can quickly search for the right candidate, using a quick merge algorithm that matches individual resumes and job post requirements and calculates the total match score, taking into account matching skills, profession, location, and education.</p>
+### [Job Post Website](https://github.com/Randoms-63/BetweenJobs)
+[![Between Jobs](https://github.com/IGetsov/IGetsov/blob/main/images/BetweenJobs_Thumbnail.png)](https://betweenjobs-webapp.azurewebsites.net/)
 
-### <a href="https://github.com/Kernel-Integrated-Systems/Terelik-Forum">
-    <img src="https://github.com/IGetsov/IGetsov/blob/main/images/TelerikForum_Thumbnail.png" alt="Telerik Forum" width="250" height="250"/>
-</a>
-<p>This is a forum website, where users can log in and navigate through Categories and Topics to find needed information. The app also allows users to reply to topics and exchange messages.</p>
+Between Jobs is a job search website, where professionals individuals and business owners can quickly search for the right candidate, using quick merge algorithm that matches individual resume and job post requirements and calculates total match score, taking into account matching skills, proffesion, location and education.
 
-### <a href="https://github.com/Best-Logistic-Team-Developers/LogisticsApp">
-    <img src="https://via.placeholder.com/250x150.png?text=Project+3" alt="OOP Logistic App" width="250" height="250"/>
-</a>
-<p>This is an OOP console application, that handles logistic services for a delivery company, located in Australia. The app allows users to register delivery packages and track their delivery status, create new routes and dispatch available vehicles on pre scheduled routes.</p>
+### [Forum](https://github.com/Kernel-Integrated-Systems/Terelik-Forum)
+[![Project 2 Thumbnail](https://github.com/IGetsov/IGetsov/blob/main/images/TelerikForum_Thumbnail.png)](https://github.com/Kernel-Integrated-Systems/Terelik-Forum)
+
+This is a forum website, where users can login and navigate trough Categories and Topics to find needed information. The app also allows users to reply on topics and exchange messages.
+
+### [OOP Logistic App](https://github.com/Best-Logistic-Team-Developers/LogisticsApp)
+![Project 3 Thumbnail](https://via.placeholder.com/250x150.png?text=Project+3)
+
+This is an OOP console application, that handles logistic services for a delivery company, located in Australia. The app allows users to register delivery packages and track their delivery status, create new routes and dispatch available vehicles on pre scheduled routes.
 
 </div>
 ---
