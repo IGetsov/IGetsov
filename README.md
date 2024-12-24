@@ -37,7 +37,7 @@ I am a passionate and results-driven software developer with a strong background
 Between Jobs is a job search website, where professionals individuals and business owners can quickly search for the right candidate, using quick merge algorithm that matches individual resume and job post requirements and calculates total match score, taking into account matching skills, proffesion, location and education.
 
 ### [Forum](https://github.com/Kernel-Integrated-Systems/Terelik-Forum)
-![Project 2 Thumbnail](https://github.com/IGetsov/IGetsov/blob/main/images/TelerikForum_Thumbnail.png)
+[![Project 2 Thumbnail](https://github.com/IGetsov/IGetsov/blob/main/images/TelerikForum_Thumbnail.png)](https://github.com/Kernel-Integrated-Systems/Terelik-Forum)
 
 This is a forum website, where users can login and navigate trough Categories and Topics to find needed information. The app also allows users to reply on topics and exchange messages.
 
@@ -51,7 +51,7 @@ An OOP console application, that manages all main operations for a logiscital bu
 ## Contact Me
 
 - **Email**: [ivnegets@gmail.com](mailto:ivnegets@gmail.com)
-- **LinkedIn**: [linkedinurl](https://[linkedinurl](https://www.linkedin.com/in/ivaylo-getsov-78ba8b193/))
+- **LinkedIn**: [linkedinurl](https://www.linkedin.com/in/ivaylo-getsov-78ba8b193/)
 
 
 Feel free to connect with me and check out my work. Let's create something amazing together!
