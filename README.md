@@ -24,23 +24,23 @@ I am a passionate and results-driven software developer with a strong background
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=IGetsov&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IGetsov&layout=compact&theme=radical)
 
 ## Projects
 
-### [Project 1](https://github.com/your-github-username/project-1)
+### [Job Post Website](https://github.com/Randoms-63/BetweenJobs)
 ![Project 1 Thumbnail](https://via.placeholder.com/250x150.png?text=Project+1)
 
 A brief description of Project 1 and its purpose.
 
-### [Project 2](https://github.com/your-github-username/project-2)
+### [Forum](https://github.com/Kernel-Integrated-Systems/Terelik-Forum)
 ![Project 2 Thumbnail](https://via.placeholder.com/250x150.png?text=Project+2)
 
 A brief description of Project 2 and its purpose.
 
-### [Project 3](https://github.com/your-github-username/project-3)
+### [OOP Logistic App](https://github.com/Best-Logistic-Team-Developers/LogisticsApp)
 ![Project 3 Thumbnail](https://via.placeholder.com/250x150.png?text=Project+3)
 
 A brief description of Project 3 and its purpose.
