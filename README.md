@@ -31,19 +31,19 @@ I am a passionate and results-driven software developer with a strong background
 ## Projects
 
 ### [Job Post Website](https://github.com/Randoms-63/BetweenJobs)
-![Between Jobs](https://via.placeholder.com/250x150.png?text=[BetweenJobs](https://betweenjobs-webapp.azurewebsites.net/))
+[![Between Jobs](https://via.placeholder.com/250x150.png?text=Between+Jobs)](https://betweenjobs-webapp.azurewebsites.net/)
 
-A brief description of Project 1 and its purpose.
+Between Jobs is a job search website, where professionals individuals and business owners can quickly search for the right candidate, using quick merge algorithm that matches individual resume and job post requirements and calculates total match score, taking into account matching skills, proffesion, location and education.
 
 ### [Forum](https://github.com/Kernel-Integrated-Systems/Terelik-Forum)
 ![Project 2 Thumbnail](https://via.placeholder.com/250x150.png?text=Project+2)
 
-A brief description of Project 2 and its purpose.
+This is a forum website, where users can login and navigate trough Categories and Topics to find needed information. The app also allows users to reply on topics and exchange messages.
 
 ### [OOP Logistic App](https://github.com/Best-Logistic-Team-Developers/LogisticsApp)
 ![Project 3 Thumbnail](https://via.placeholder.com/250x150.png?text=Project+3)
 
-A brief description of Project 3 and its purpose.
+An OOP console application, that manages all main operations for a logiscital business. The app allows package registration, route creation and dispatch, package trackability and scheduling of available vehicles on existing routes.
 
 ---
 
