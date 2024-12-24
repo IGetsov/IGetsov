@@ -38,9 +38,11 @@ I am a passionate and results-driven software developer with a strong background
 <div style="display: flex; flex-wrap: wrap; justify-content: center; padding: 20px;">
 
   <div style="flex: 0 1 calc(33.33% - 20px); max-width: calc(33.33% - 20px); box-sizing: border-box;">
-    <a href="https://github.com/Randoms-63/BetweenJobs" target="_blank">
+    <a href="https://betweenjobs-webapp.azurewebsites.net/" target="_blank">
       <img src="https://github.com/IGetsov/IGetsov/blob/main/images/BetweenJobs_Thumbnail.png" alt="Between Jobs" width="250" height="250" />
-      <p style="text-align: center;">Job Post Website</p>
+    </a>
+    <a href="https://github.com/Randoms-63/BetweenJobs" target="_blank" style="text-decoration: none; display: block; text-align: center;">
+      <p>Job Post Website</p>
     </a>
   </div>
 
